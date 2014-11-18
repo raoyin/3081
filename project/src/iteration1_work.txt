@@ -1,3 +1,0 @@
-Raoyin Chen: Create the part of code of test and regex of Keywords and Constants.
-Sichao Shi: Create the part of code of test and regex of Names and Punctuation. And some debug parts.
-Daniel Sherman: Responsible for most debug parts and did a final check side by side with the rubirc, making sure we had our files in the correct locations.

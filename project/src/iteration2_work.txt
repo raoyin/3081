@@ -1,4 +1,0 @@
-The majority of this iteration was done jointly as we were given time in lab.
-All three of us worked jointly during Lab 7, adding the new files and editing the Makefile to reflect them.
-It took until the end of the lab to work out the few errors we were encoutering while creating the Makefile, leaving the lab just as we had reached the actual tests, which the last two of failed.
-Then over the rest of the duration of this project, although not always working next to one another, we all looked at ways to fix the problem, and the fix was found in the end by Raoyin Chen.
